@@ -1,0 +1,5 @@
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculator\bin\Debug\FractionCalculator.pdb
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculator\obj\Debug\FractionCalculator.pdb

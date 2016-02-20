@@ -1,0 +1,9 @@
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\obj\Debug\FractionCalculatorTests.csprojResolveAssemblyReference.cache
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\FractionCalculatorTests.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\FractionCalculatorTests.pdb
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\FractionCalculator.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\FractionCalculator.pdb
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\obj\Debug\FractionCalculatorTests.dll
+c:\users\taa\documents\visual studio 2015\Projects\FractionCalculator\FractionCalculatorTests\obj\Debug\FractionCalculatorTests.pdb
